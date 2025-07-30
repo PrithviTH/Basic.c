@@ -1,6 +1,6 @@
 
-#<stdio.h>
-#<conio.h>
+#include<stdio.h>
+#include<conio.h>
 void main();
 {
 printf("PRITHVI");
